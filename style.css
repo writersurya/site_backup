@@ -8,5 +8,17 @@ h1 {
 }
 div {
     font-family: NTR;
-	font-size: 30px;
+	font-size: 40px;
+}
+a {
+    font-family: NTR;
+	font-size: 40px;
+}
+h2 {
+    font-family: NTR;
+	font-size: 40px;
+}
+p {
+    font-family: NTR;
+	font-size: 40px;
 }
