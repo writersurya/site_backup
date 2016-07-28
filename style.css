@@ -2,7 +2,10 @@
     font-family: NTR;
     src: url(https://cdn.rawgit.com/writersurya/site/gh-pages/NTR.ttf);
 }
-
+h1 {
+    font-family: NTR;
+	font-size: 300%;
+}
 div {
     font-family: NTR;
 	font-size: 200%;
