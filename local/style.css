@@ -1,0 +1,24 @@
+@font-face {
+    font-family: NTR;
+    src: url(https://cdn.rawgit.com/writersurya/site/gh-pages/NTR.ttf);
+}
+h1 {
+    font-family: NTR;
+	font-size: 250%;
+}
+div {
+    font-family: NTR;
+	font-size:x-large;
+}
+a {
+    font-family: NTR;
+	font-size: 250%;
+}
+h2 {
+    font-family: NTR;
+	font-size: 250%;
+}
+p {
+    font-family: NTR;
+	font-size: 250%;
+}
